@@ -6,4 +6,3 @@ Made with reveal.js.
 <div align="center">
   MIT licensed | Copyright © 2011-2022 Hakim El Hattab, https://hakim.se
 </div>
-# HASS-smartcities-presentation
